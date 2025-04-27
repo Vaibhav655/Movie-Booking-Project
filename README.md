@@ -8,6 +8,5 @@
 
 ## Tech Stack
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Tools**: VS Code, Git, Postman (for API testing)
